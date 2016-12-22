@@ -104,7 +104,32 @@ public class WAVLTree {
         String[] arr = new String[42]; // to be replaced by student code
         return arr;                    // to be replaced by student code
   }
-
+  
+  private void promote(WAVLNode node){
+	  
+  }
+  
+  private void demote(WAVLNode node){
+	  
+  }
+  
+  private void leftRotate(WAVLNode node){
+	  
+  }
+  
+  private void rightRotate(WAVLNode node){
+	  
+  }
+  
+  private void leftRightRotate(WAVLNode node){
+	  
+  }
+  
+  private void rightLeftRotate(WAVLNode node)
+  {
+	  
+  }
+  
    /**
     * public int size()
     *
